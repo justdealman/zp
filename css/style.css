@@ -570,6 +570,10 @@ nav ul li a:hover, nav ul li.active a {
 	border-left:3px solid #e51a4b;
 	border-bottom:3px solid #e51a4b;
 }
+.navigator .rb .core {
+	border-left:3px solid #264796;
+	border-bottom:3px solid #264796;
+}
 .navigator .core ul {
 	margin:0;
 }
